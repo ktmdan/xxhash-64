@@ -6,8 +6,8 @@ import (
 	"hash/fnv"
 	"testing"
 
-	C "github.com/OneOfOne/xxhash"
-	N "github.com/OneOfOne/xxhash/native"
+	C "github.com/ktmdan/xxhash-64"
+	N "github.com/ktmdan/xxhash-64/native"
 )
 
 var (

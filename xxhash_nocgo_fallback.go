@@ -1,3 +1,4 @@
+//go:build !cgo
 // +build !cgo
 
 package xxhash
@@ -5,7 +6,7 @@ package xxhash
 import (
 	"hash"
 
-	N "github.com/OneOfOne/xxhash/native"
+	N "github.com/ktmdan/xxhash/native"
 )
 
 // Backend returns the current version of xxhash being used.
