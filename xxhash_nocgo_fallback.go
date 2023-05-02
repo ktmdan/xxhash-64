@@ -6,7 +6,7 @@ package xxhash
 import (
 	"hash"
 
-	N "github.com/ktmdan/xxhash/native"
+	N "github.com/ktmdan/xxhash-64/native"
 )
 
 // Backend returns the current version of xxhash being used.

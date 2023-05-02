@@ -1,2 +1,2 @@
-github.com/OneOfOne/xxhash v1.2.8 h1:31czK/TI9sNkxIKfaUfGlU47BAxQ0ztGgd9vPyqimf8=
-github.com/OneOfOne/xxhash v1.2.8/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdIIOT9Um7Q=
+github.com/ktmdan/xxhash-64/native v0.0.0-20230502181659-728a9723d75b h1:4WccearwIlfPIY+ur4IivGoZ5gYiBwVsZBu5cbU6PGA=
+github.com/ktmdan/xxhash-64/native v0.0.0-20230502181659-728a9723d75b/go.mod h1:6U9NZc8JePDDECN8lkqwJclKql21UYfilGpKye9NokY=
